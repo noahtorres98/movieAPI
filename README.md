@@ -1,5 +1,6 @@
-The movie API features React on the frontend and Spring Boot and Mongo DB on the backend.
+![movieAPI](https://github.com/noahtorres98/movieAPI/assets/82859716/59dd1b3e-288a-4857-bc7c-cb3b8b2c64e0)
 
+The movie API features React on the frontend and Spring Boot and Mongo DB on the backend.
 
 # Getting Started with Create React App
 
